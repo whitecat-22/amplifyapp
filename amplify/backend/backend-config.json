@@ -42,5 +42,12 @@
         }
       }
     }
+  },
+  "storage": {
+    "s3074a172b": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
+    }
   }
 }
